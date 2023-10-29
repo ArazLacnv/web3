@@ -1370,3 +1370,103 @@ hr.wan {
   margin-top: 70px;
   border-top: 1px solid #d092ba;
 }
+.below {
+  width: 80%;
+  height: 150px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 80px;
+}
+.below1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.below1 > span {
+  font-size: 25px;
+  font-family: "Fraunces", sans-serif;
+  font-weight: 400;
+  color: #242f65;
+  margin-top: 18px;
+  cursor: pointer;
+}
+.below2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.below2 > span {
+  font-size: 25px;
+  font-family: "Fraunces", sans-serif;
+  font-weight: 400;
+  color: #242f65;
+  margin-top: 18px;
+  cursor: pointer;
+}
+.below3 {
+  width: 65%;
+  height: 95px;
+  background-color: #fff;
+  border-radius: 20px;
+}
+.below3 > span {
+  font-size: 25px;
+  font-family: "Fraunces", sans-serif;
+  font-weight: 400;
+  color: #242f65;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 22px;
+}
+.below3 > span > .buttoonns {
+  font-size: 18px;
+  font-family: "Mulish", sans-serif;
+  font-weight: 700;
+  color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.below3 > span > button {
+  width: 170px;
+  height: 50px;
+  background-color: #242f65;
+  border-radius: 10px;
+  border: 0;
+  margin-left: 40px;
+}
+.below3 > span > button > img {
+  width: 21px;
+  height: 25px;
+  margin-right: 10px;
+}
+
+hr.wan1 {
+  width: 100%;
+  margin-left: 0;
+  margin-top: 0;
+  border-top: 1px solid #d092ba;
+}
+.webflow {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.webflow > span {
+  font-size: 20px;
+  font-family: "Mulish", sans-serif;
+  font-weight: 300;
+  color: #242f65;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
