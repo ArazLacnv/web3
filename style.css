@@ -43,7 +43,7 @@ nav {
   background-image: url("/images/Background\ \(1\).png");
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;
+
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -1173,4 +1173,200 @@ hr.new4 {
   color: #525665;
   margin-top: 30px;
   margin-left: 50px;
+}
+.separatorr {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin: 100px 0 0 0;
+}
+.separatorr > div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-family: "Mulish", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  color: #242f65;
+  margin: 0 15px;
+}
+.separatorr > div > img {
+  width: 34px;
+  margin: 0 15px 0 0;
+}
+.line-h {
+  width: 510px;
+  height: 1px;
+  background-color: #ccc;
+}
+.line-v {
+  width: 1px;
+  height: 40px;
+  background-color: #ccc;
+}
+
+.newss2 {
+  width: 80%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.develops2 {
+  margin-top: 100px;
+  width: 50%;
+  height: 635px;
+  margin-left: 5px;
+}
+.develops2 > img {
+  width: 620px;
+  height: 350px;
+}
+
+.develops3 {
+  font-size: 30px;
+  font-family: "Fraunces", sans-serif;
+  font-weight: 600;
+  color: #242f65;
+  margin-top: 18px;
+}
+
+.develops2 > p {
+  width: 620px;
+  font-size: 20px;
+  font-family: "Mulish", sans-serif;
+  font-weight: 300;
+  color: #525665;
+  margin: 18px 0;
+}
+.develops2 > .buttonns {
+  border-radius: 10px;
+  background-color: #fff;
+  color: #242f65;
+  border: 0;
+  font-family: "Mulish", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  cursor: pointer;
+  height: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.buttonns > img {
+  width: 14px;
+  height: 14px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-left: 10px;
+}
+
+.templatte {
+  width: 50%;
+  height: 635px;
+  margin-top: 100px;
+  margin-left: 55px;
+}
+.templatte > img {
+  width: 620px;
+  height: 350px;
+}
+.templatte1 {
+  font-size: 30px;
+  font-family: "Fraunces", sans-serif;
+  font-weight: 600;
+  color: #242f65;
+  margin-top: 18px;
+}
+.templatte > p {
+  width: 580px;
+  font-size: 20px;
+  font-family: "Mulish", sans-serif;
+  font-weight: 300;
+  color: #525665;
+  margin: 18px 0;
+}
+.templatte > .buttonns {
+  border-radius: 10px;
+  background-color: #fff;
+  color: #242f65;
+  border: 0;
+  font-family: "Mulish", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  cursor: pointer;
+  height: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.buttonns > img {
+  width: 14px;
+  height: 14px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-left: 10px;
+}
+.futer {
+  background-image: url("/images/fonebc.png");
+  width: 100%;
+  height: 926px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+.above {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.above > img {
+  width: 203px;
+  height: 201xp;
+  margin-top: 110px;
+}
+.above > span > img:nth-child(1) {
+  width: 42px;
+  height: 42px;
+}
+.above > span > img:nth-child(2) {
+  width: 44px;
+  height: 44px;
+}
+.above > span > img:nth-child(3) {
+  width: 42px;
+  height: 42px;
+}
+.above > span > img:nth-child(4) {
+  width: 44px;
+  height: 44px;
+}
+.above > span {
+  font-size: 45px;
+  font-family: "Mulish", sans-serif;
+  font-weight: 300;
+  color: #242f65;
+  margin-top: 80px;
+}
+hr.wan {
+  width: 100%;
+  margin-left: 0;
+  margin-top: 70px;
+  border-top: 1px solid #d092ba;
 }
