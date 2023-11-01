@@ -1538,6 +1538,9 @@ hr.wan1 {
   .bacground > div > div > h1 {
     font-size: 44px;
   }
+  #head {
+    overflow: hidden;
+  }
   .bacground > div > div > h4,
   .bacground > div > div > h4 > span {
     font-size: 22px !important;
