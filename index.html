@@ -5,6 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>selectors</title>
     <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"
+    />
     <link rel="icon" type="image/png" href="/images/Vector (1).png" />
   </head>
   <body>
@@ -14,7 +18,8 @@
         <a>UIUXer</a>
       </div>
       <div class="metin">
-        <ul>
+        <span class="material-symbols-outlined" onclick="toogle()"> menu </span>
+        <ul id="menu">
           <li>Home</li>
           <li>Work</li>
           <li>Me</li>
@@ -22,7 +27,7 @@
         </ul>
       </div>
     </nav>
-    <div class="bacground">
+    <div class="bacground" id="head">
       <div>
         <div>
           <h1>Hi, I'm Araz! <img src="/images/Sign of the Horns.png" /></h1>
@@ -447,5 +452,25 @@
         >
       </div>
     </div>
+    <script>
+      let open = false;
+      let interval;
+      const toogle = () => {
+        if (open) {
+          document.getElementById("menu").style.animation = "fadeOut 1s";
+          interval = setTimeout(() => {
+            document.getElementById("menu").style.display = "none";
+          }, 1000);
+          document.getElementById("head").style.marginTop = "0";
+          open = false;
+        } else {
+          document.getElementById("menu").style.display = "block";
+          document.getElementById("menu").style.animation = "fadeIn 1s";
+          document.getElementById("head").style.marginTop = "230px";
+          open = true;
+          clearTimeout(interval);
+        }
+      };
+    </script>
   </body>
 </html>
