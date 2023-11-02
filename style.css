@@ -159,8 +159,6 @@ nav {
   margin: 95px 60px 20px 95px;
 }
 .easy {
-  width: 438px;
-  height: 88px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -1549,7 +1547,6 @@ hr.wan1 {
     width: 60px;
   }
 
-  .made,
   .made1,
   .made2,
   .made3,
@@ -1580,5 +1577,98 @@ hr.wan1 {
   }
   .separator > div > img {
     width: 14px;
+  }
+  .made {
+    width: 60%;
+    background-image: url("/images/mobil.png");
+  }
+  .made > div {
+    width: 60%;
+    height: 0;
+    margin-top: 35px;
+    margin-left: 55px;
+  }
+  .easy {
+    font-size: 12px;
+    margin-left: 10px;
+  }
+  .buttons {
+    padding: 15px 25px;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #ff8762;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    margin-left: -10px;
+  }
+
+  .buttons:hover {
+    background-color: #ff8762;
+  }
+
+  .buttons:active {
+    background-color: #e9cdc4;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  .button {
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #ff8762;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    width: 171px;
+    margin-left: -10px;
+  }
+
+  .button:hover {
+    background-color: #ff8762;
+  }
+
+  .button:active {
+    background-color: #e9cdc4;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  .page {
+    font-size: 14px;
+    margin-left: 10px;
+  }
+  .roww > .buttoon {
+    font-size: 12px;
+    width: 171px;
+    height: 40px;
+    margin-left: -10px;
+  }
+  .buttoon {
+    padding: 15px 25px;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #ff8762;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    margin-left: -10px;
+  }
+
+  .buttoon:hover {
+    background-color: #ff8762;
+  }
+
+  .buttoon:active {
+    background-color: #e9cdc4;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
   }
 }
