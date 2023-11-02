@@ -1565,12 +1565,12 @@ hr.wan1 {
     display: none;
   }
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 840px) {
   .separator {
     width: 100%;
   }
   .line-h {
-    width: 140px;
+    width: 200px;
   }
   .line-v {
     height: 20px;
