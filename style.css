@@ -1548,7 +1548,7 @@ hr.wan1 {
   .bacground > div > div > h4 > img {
     width: 60px;
   }
-  .separator,
+
   .made,
   .made1,
   .made2,
@@ -1563,5 +1563,22 @@ hr.wan1 {
   .newss2,
   .futer {
     display: none;
+  }
+}
+@media screen and (max-width: 500px) {
+  .separator {
+    width: 100%;
+  }
+  .line-h {
+    width: 140px;
+  }
+  .line-v {
+    height: 20px;
+  }
+  .separator > div {
+    font-size: 14px;
+  }
+  .separator > div > img {
+    width: 14px;
   }
 }
