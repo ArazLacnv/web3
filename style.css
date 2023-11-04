@@ -1563,7 +1563,7 @@ hr.wan1 {
     width: 100%;
   }
   .line-h {
-    width: 80px;
+    width: 124px;
   }
   .line-v {
     height: 20px;
@@ -1575,11 +1575,11 @@ hr.wan1 {
     width: 14px;
   }
   .made {
-    width: 60%;
+    width: 80%;
     background-image: url("/images/mobil.png");
   }
   .made > div {
-    width: 60%;
+    width: 70%;
     height: 0;
     margin-top: 35px;
     margin-left: 55px;
@@ -1599,7 +1599,7 @@ hr.wan1 {
     border: none;
     border-radius: 15px;
     box-shadow: 0 9px #999;
-    margin-left: -10px;
+    margin-left: 35px;
   }
 
   .buttons:hover {
@@ -1622,7 +1622,7 @@ hr.wan1 {
     border-radius: 15px;
     box-shadow: 0 9px #999;
     width: 171px;
-    margin-left: -10px;
+    margin-left: 35px;
   }
 
   .button:hover {
@@ -1636,17 +1636,14 @@ hr.wan1 {
   }
   .page {
     font-size: 14px;
-    margin-left: 10px;
   }
   .roww > .buttoon {
     font-size: 12px;
     width: 171px;
     height: 40px;
-    margin-left: -10px;
-    margin-top: -3px;
+    margin-left: 35px !important;
   }
   .buttoon {
-    padding: 15px 25px;
     font-size: 16px;
     text-align: center;
     cursor: pointer;
@@ -1656,7 +1653,6 @@ hr.wan1 {
     border: none;
     border-radius: 15px;
     box-shadow: 0 9px #999;
-    margin-left: -10px;
   }
 
   .buttoon:hover {
