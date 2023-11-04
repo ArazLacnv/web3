@@ -1963,22 +1963,22 @@ hr.wan1 {
     flex-direction: column;
   }
   .develops > img {
-    width: 100%;
-    margin-left: 10%;
+    width: 90%;
+    margin-left: 19%;
   }
   .develops1 {
-    width: 100%;
-    margin-left: 10%;
+    width: 60%;
+    margin-left: 19%;
   }
   .develops > p {
-    width: 100%;
-    margin-left: 10%;
+    width: 80%;
+    margin-left: 19%;
     color: #525665;
   }
 
   .template > img {
     width: 90%;
-    margin: 19%;
+    margin-left: 19%;
   }
   .template1 {
     width: 60%;
@@ -1989,6 +1989,7 @@ hr.wan1 {
     margin-left: 19%;
     color: #525665;
   }
+
   .btn {
     background-color: #f4511e;
     border: none;
