@@ -1547,10 +1547,6 @@ hr.wan1 {
     width: 60px;
   }
 
-  .made1,
-  .made2,
-  .made3,
-  .newss,
   .back-color,
   .separators1,
   .backrounnd,
@@ -1671,5 +1667,342 @@ hr.wan1 {
     background-color: #e9cdc4;
     box-shadow: 0 5px #666;
     transform: translateY(4px);
+  }
+
+  .made1 {
+    width: 60%;
+    background-image: url("/images/mobil.png");
+  }
+  .made1 > div {
+    width: 60%;
+    height: 0;
+    margin-top: 35px;
+    margin-left: 55px;
+  }
+  .website {
+    width: 80%;
+    font-size: 12px;
+    margin-left: 10px;
+    height: 40px;
+  }
+  .buttons1 {
+    padding: 15px 25px;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #ff8762;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    margin-left: -10px;
+  }
+
+  .buttons1:hover {
+    background-color: #ff8762;
+  }
+
+  .buttons1:active {
+    background-color: #e9cdc4;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  .button1 {
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #ff8762;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    width: 171px;
+    margin-left: -10px;
+  }
+
+  .button1:hover {
+    background-color: #ff8762;
+  }
+
+  .button1:active {
+    background-color: #e9cdc4;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  .page {
+    font-size: 14px;
+    margin-left: 10px;
+  }
+  .roww > .buttoon {
+    font-size: 12px;
+    width: 171px;
+    height: 40px;
+    margin-left: -10px;
+    margin-top: -3px;
+  }
+  .buttoon {
+    padding: 15px 25px;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #ff8762;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    margin-left: -10px;
+    margin-top: 30px !important;
+  }
+
+  .buttoon:hover {
+    background-color: #ff8762;
+  }
+
+  .buttoon:active {
+    background-color: #e9cdc4;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+  .made2 {
+    width: 60%;
+    background-image: url("/images/mobil.png");
+  }
+  .made2 > div {
+    width: 60%;
+    height: 0;
+    margin-top: 35px;
+    margin-left: 55px;
+  }
+  .website {
+    width: 80%;
+    font-size: 12px;
+    margin-left: 10px;
+    height: 40px;
+  }
+  .buttons2 {
+    padding: 15px 25px;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #ff8762;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    margin-left: -10px;
+  }
+  .buttons2:hover {
+    background-color: #ff8762;
+  }
+  .buttons2:active {
+    background-color: #e9cdc4;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  .button2 {
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #ff8762;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    width: 171px;
+    margin-left: -10px;
+  }
+
+  .button2:hover {
+    background-color: #ff8762;
+  }
+
+  .button2:active {
+    background-color: #e9cdc4;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  .page {
+    font-size: 14px;
+    margin-left: 10px;
+  }
+  .roww > .buttoon {
+    font-size: 12px;
+    width: 171px;
+    height: 40px;
+    margin-left: -10px;
+    margin-top: -3px;
+  }
+  .buttoon {
+    padding: 15px 25px;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #ff8762;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    margin-left: -10px;
+    margin-top: 30px !important;
+  }
+
+  .buttoon:hover {
+    background-color: #ff8762;
+  }
+
+  .buttoon:active {
+    background-color: #e9cdc4;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+  .made3 {
+    width: 60%;
+    background-image: url("/images/mobil.png");
+  }
+  .made3 > div {
+    width: 60%;
+    height: 0;
+    margin-top: 35px;
+    margin-left: 55px;
+  }
+  .website {
+    width: 80%;
+    font-size: 12px;
+    margin-left: 10px;
+    height: 40px;
+  }
+  .buttons3 {
+    padding: 15px 25px;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #ff8762;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    margin-left: -10px;
+  }
+  .buttons3:hover {
+    background-color: #ff8762;
+  }
+  .buttons3:active {
+    background-color: #e9cdc4;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  .button3 {
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #ff8762;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    width: 171px;
+    margin-left: -10px;
+  }
+
+  .button3:hover {
+    background-color: #ff8762;
+  }
+
+  .button3:active {
+    background-color: #e9cdc4;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  .page {
+    font-size: 14px;
+    margin-left: 10px;
+  }
+  .roww > .buttoon {
+    font-size: 12px;
+    width: 171px;
+    height: 40px;
+    margin-left: -10px;
+    margin-top: -3px;
+  }
+  .buttoon {
+    padding: 15px 25px;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #ff8762;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    margin-left: -10px;
+    margin-top: 30px !important;
+  }
+
+  .buttoon:hover {
+    background-color: #ff8762;
+  }
+
+  .buttoon:active {
+    background-color: #e9cdc4;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  .newss {
+    width: 100%;
+    flex-direction: column;
+  }
+  .develops > img {
+    width: 80%;
+    margin-left: 10%;
+  }
+  .develops1 {
+    width: 80%;
+    margin-left: 10%;
+  }
+  .develops > p {
+    width: 80%;
+    margin-left: 10%;
+    color: #525665;
+  }
+
+  .template > img {
+    width: 80%;
+    margin-left: 10%;
+  }
+  .template1 {
+    width: 80%;
+    margin-left: 10%;
+  }
+  .template > p {
+    width: 80%;
+    margin-left: 10%;
+    color: #525665;
+  }
+  .btn {
+    background-color: #f4511e;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin-left: 10%;
+    opacity: 1;
+    transition: 1s;
+    border-radius: 20px;
+  }
+
+  .btn:hover {
+    opacity: 0.6;
   }
 }
