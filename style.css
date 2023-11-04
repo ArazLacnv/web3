@@ -1978,15 +1978,15 @@ hr.wan1 {
 
   .template > img {
     width: 80%;
-    margin-left: 10%;
+    margin-left: 20%;
   }
   .template1 {
-    width: 80%;
-    margin-left: 10%;
+    width: 60%;
+    margin-left: 25%;
   }
   .template > p {
-    width: 80%;
-    margin-left: 10%;
+    width: 50%;
+    margin-left: 25%;
     color: #525665;
   }
   .btn {
@@ -1996,7 +1996,7 @@ hr.wan1 {
     padding: 16px 32px;
     text-align: center;
     font-size: 16px;
-    margin-left: 10%;
+    margin-left: 25%;
     opacity: 1;
     transition: 1s;
     border-radius: 20px;
