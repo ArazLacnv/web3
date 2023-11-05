@@ -1599,7 +1599,7 @@ hr.wan1 {
     border: none;
     border-radius: 15px;
     box-shadow: 0 9px #999;
-    margin-left: 19px;
+    margin-left: 10px;
     margin-top: 20px !important;
   }
 
@@ -1623,7 +1623,7 @@ hr.wan1 {
     border-radius: 15px;
     box-shadow: 0 9px #999;
     width: 171px;
-    margin-left: 19px;
+    margin-left: 10px;
     margin-top: 40px !important;
   }
 
@@ -1670,20 +1670,18 @@ hr.wan1 {
   }
 
   .made1 {
-    width: 60%;
+    width: 80%;
     background-image: url("/images/mobil.png");
   }
   .made1 > div {
-    width: 60%;
+    width: 70%;
     height: 0;
     margin-top: 35px;
     margin-left: 55px;
   }
   .website {
-    width: 80%;
     font-size: 12px;
-    margin-left: 10px;
-    height: 40px;
+    margin-right: 20px;
   }
   .buttons1 {
     padding: 15px 25px;
@@ -1696,7 +1694,8 @@ hr.wan1 {
     border: none;
     border-radius: 15px;
     box-shadow: 0 9px #999;
-    margin-left: -10px;
+    margin-left: 10px;
+    margin-top: 20px !important;
   }
 
   .buttons1:hover {
@@ -1719,7 +1718,8 @@ hr.wan1 {
     border-radius: 15px;
     box-shadow: 0 9px #999;
     width: 171px;
-    margin-left: -10px;
+    margin-left: 10px;
+    margin-top: 40px !important;
   }
 
   .button1:hover {
@@ -1733,17 +1733,16 @@ hr.wan1 {
   }
   .page {
     font-size: 14px;
-    margin-left: 10px;
+    margin-right: 20px;
   }
   .roww > .buttoon {
     font-size: 12px;
     width: 171px;
     height: 40px;
-    margin-left: -10px;
-    margin-top: -3px;
+    margin-left: 10px !important;
+    margin-top: 40px !important;
   }
   .buttoon {
-    padding: 15px 25px;
     font-size: 16px;
     text-align: center;
     cursor: pointer;
@@ -1753,8 +1752,6 @@ hr.wan1 {
     border: none;
     border-radius: 15px;
     box-shadow: 0 9px #999;
-    margin-left: -10px;
-    margin-top: 30px !important;
   }
 
   .buttoon:hover {
@@ -1768,20 +1765,18 @@ hr.wan1 {
   }
 
   .made2 {
-    width: 60%;
+    width: 80%;
     background-image: url("/images/mobil.png");
   }
   .made2 > div {
-    width: 60%;
+    width: 70%;
     height: 0;
     margin-top: 35px;
     margin-left: 55px;
   }
   .website {
-    width: 80%;
     font-size: 12px;
-    margin-left: 10px;
-    height: 40px;
+    margin-right: 20px;
   }
   .buttons2 {
     padding: 15px 25px;
@@ -1794,11 +1789,14 @@ hr.wan1 {
     border: none;
     border-radius: 15px;
     box-shadow: 0 9px #999;
-    margin-left: -10px;
+    margin-left: 10px;
+    margin-top: 20px !important;
   }
+
   .buttons2:hover {
     background-color: #ff8762;
   }
+
   .buttons2:active {
     background-color: #e9cdc4;
     box-shadow: 0 5px #666;
@@ -1815,7 +1813,8 @@ hr.wan1 {
     border-radius: 15px;
     box-shadow: 0 9px #999;
     width: 171px;
-    margin-left: -10px;
+    margin-left: 10px;
+    margin-top: 40px !important;
   }
 
   .button2:hover {
@@ -1829,17 +1828,16 @@ hr.wan1 {
   }
   .page {
     font-size: 14px;
-    margin-left: 10px;
+    margin-right: 20px;
   }
   .roww > .buttoon {
     font-size: 12px;
     width: 171px;
     height: 40px;
-    margin-left: -10px;
-    margin-top: -3px;
+    margin-left: 10px !important;
+    margin-top: 40px !important;
   }
   .buttoon {
-    padding: 15px 25px;
     font-size: 16px;
     text-align: center;
     cursor: pointer;
@@ -1849,8 +1847,6 @@ hr.wan1 {
     border: none;
     border-radius: 15px;
     box-shadow: 0 9px #999;
-    margin-left: -10px;
-    margin-top: 30px !important;
   }
 
   .buttoon:hover {
@@ -1862,22 +1858,19 @@ hr.wan1 {
     box-shadow: 0 5px #666;
     transform: translateY(4px);
   }
-
   .made3 {
-    width: 60%;
+    width: 80%;
     background-image: url("/images/mobil.png");
   }
   .made3 > div {
-    width: 60%;
+    width: 70%;
     height: 0;
     margin-top: 35px;
     margin-left: 55px;
   }
   .website {
-    width: 80%;
     font-size: 12px;
-    margin-left: 10px;
-    height: 40px;
+    margin-right: 20px;
   }
   .buttons3 {
     padding: 15px 25px;
@@ -1890,11 +1883,14 @@ hr.wan1 {
     border: none;
     border-radius: 15px;
     box-shadow: 0 9px #999;
-    margin-left: -10px;
+    margin-left: 10px;
+    margin-top: 20px !important;
   }
+
   .buttons3:hover {
     background-color: #ff8762;
   }
+
   .buttons3:active {
     background-color: #e9cdc4;
     box-shadow: 0 5px #666;
@@ -1911,7 +1907,8 @@ hr.wan1 {
     border-radius: 15px;
     box-shadow: 0 9px #999;
     width: 171px;
-    margin-left: -10px;
+    margin-left: 10px;
+    margin-top: 40px !important;
   }
 
   .button3:hover {
@@ -1925,17 +1922,16 @@ hr.wan1 {
   }
   .page {
     font-size: 14px;
-    margin-left: 10px;
+    margin-right: 20px;
   }
   .roww > .buttoon {
     font-size: 12px;
     width: 171px;
     height: 40px;
-    margin-left: -10px;
-    margin-top: -3px;
+    margin-left: 10px !important;
+    margin-top: 40px !important;
   }
   .buttoon {
-    padding: 15px 25px;
     font-size: 16px;
     text-align: center;
     cursor: pointer;
@@ -1945,8 +1941,6 @@ hr.wan1 {
     border: none;
     border-radius: 15px;
     box-shadow: 0 9px #999;
-    margin-left: -10px;
-    margin-top: 30px !important;
   }
 
   .buttoon:hover {
