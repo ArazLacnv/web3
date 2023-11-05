@@ -1680,9 +1680,10 @@ hr.wan1 {
     margin-left: 55px;
   }
   .website {
-    width: 70%;
+    width: 80%;
     font-size: 12px;
     margin-right: 20px !important;
+    height: 30;
   }
   .buttons1 {
     padding: 15px 25px;
@@ -1696,7 +1697,7 @@ hr.wan1 {
     border-radius: 15px;
     box-shadow: 0 9px #999;
     margin-left: 10px;
-    margin-top: 20px !important;
+    margin-top: -20px !important;
   }
 
   .buttons1:hover {
@@ -1776,8 +1777,10 @@ hr.wan1 {
     margin-left: 55px;
   }
   .website {
+    width: 80%;
     font-size: 12px;
     margin-right: 20px !important;
+    height: 60px;
   }
   .buttons2 {
     padding: 15px 25px;
@@ -1791,7 +1794,7 @@ hr.wan1 {
     border-radius: 15px;
     box-shadow: 0 9px #999;
     margin-left: 10px;
-    margin-top: 20px !important;
+    margin-top: -20px !important;
   }
 
   .buttons2:hover {
@@ -1870,8 +1873,10 @@ hr.wan1 {
     margin-left: 55px;
   }
   .website {
+    width: 80%;
     font-size: 12px;
     margin-right: 20px;
+    height: 60px;
   }
   .buttons3 {
     padding: 15px 25px;
@@ -1885,7 +1890,7 @@ hr.wan1 {
     border-radius: 15px;
     box-shadow: 0 9px #999;
     margin-left: 10px;
-    margin-top: 20px !important;
+    margin-top: -20px !important;
   }
 
   .buttons3:hover {
