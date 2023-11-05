@@ -1680,8 +1680,9 @@ hr.wan1 {
     margin-left: 55px;
   }
   .website {
+    width: 70%;
     font-size: 12px;
-    margin-right: 20px;
+    margin-right: 20px !important;
   }
   .buttons1 {
     padding: 15px 25px;
@@ -1776,7 +1777,7 @@ hr.wan1 {
   }
   .website {
     font-size: 12px;
-    margin-right: 20px;
+    margin-right: 20px !important;
   }
   .buttons2 {
     padding: 15px 25px;
